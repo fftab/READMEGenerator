@@ -18,7 +18,7 @@ ${data.ProjectDescription}
 To install necessary dependencies, run the following command
 ${data.Installation}
 ## Usage
-${data.usage}
+${data.Usage}
 ## License
 ${data.License}
 ## Contributing
@@ -29,9 +29,10 @@ ${data.Tests}
 ## Questions
 <img src="${data.avatar_url}" alt="github avatar" style="border-radius: 16px" width="30"/>
 
-If you have any questions about the repo, please contact:
+If you have any questions about the repo, please contact
 ${data.GitHub} @ ${data.email}
 `;
 }
 
+// Set File Up for Export
 module.exports = generateMarkdown;
