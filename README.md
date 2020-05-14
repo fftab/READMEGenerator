@@ -14,7 +14,7 @@ In this assignment, I used NodeJS, Axios to query the GitHub API and Inquirer to
 
 * [Questions](#questions)
 
-* [License)(#license)
+* [License](#license)
 
 ## Installation
 
